@@ -28,7 +28,7 @@ namespace EspacioMonedas
         public double rate_float { get; set; }
     }
 
-    public class Root
+    public class moneda
     {
         public Time time { get; set; }
         public string disclaimer { get; set; }
